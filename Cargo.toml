@@ -18,3 +18,7 @@ path = "src/ls/main.rs"
 [[bin]]
 name = "pwd"
 path = "src/pwd/main.rs"
+
+[[bin]]
+name = "cat"
+path = "src/cat/main.rs"
