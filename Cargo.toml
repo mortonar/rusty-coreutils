@@ -24,5 +24,9 @@ name = "cat"
 path = "src/cat/main.rs"
 
 [[bin]]
+name = "whoami"
+path = "src/whoami/main.rs"
+
+[[bin]]
 name = "yes"
 path = "src/yes/main.rs"
