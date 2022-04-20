@@ -22,3 +22,7 @@ path = "src/pwd/main.rs"
 [[bin]]
 name = "cat"
 path = "src/cat/main.rs"
+
+[[bin]]
+name = "yes"
+path = "src/yes/main.rs"
