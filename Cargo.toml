@@ -30,3 +30,7 @@ path = "src/whoami/main.rs"
 [[bin]]
 name = "yes"
 path = "src/yes/main.rs"
+
+[[bin]]
+name = "printenv"
+path = "src/printenv/main.rs"
