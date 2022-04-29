@@ -34,3 +34,7 @@ path = "src/yes/main.rs"
 [[bin]]
 name = "printenv"
 path = "src/printenv/main.rs"
+
+[[bin]]
+name = "head"
+path = "src/head/main.rs"
