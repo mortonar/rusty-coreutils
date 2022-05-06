@@ -18,7 +18,7 @@ fn main() {
     let cli = Cli::parse();
     let line_count = if let Some(line_count_str) = cli.lines {
         line_count_str.parse::<usize>().unwrap_or_else(|_error| {
-            println!("head: illegal line count -- {}", line_count_str);
+            eprintln!("head: illegal line count -- {}", line_count_str);
             exit(1);
         })
     } else {
