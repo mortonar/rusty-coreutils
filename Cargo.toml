@@ -43,3 +43,7 @@ path = "src/head/main.rs"
 [[bin]]
 name = "tail"
 path = "src/tail/main.rs"
+
+[[bin]]
+name = "mkdir"
+path = "src/mkdir/main.rs"
