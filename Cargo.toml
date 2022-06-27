@@ -51,3 +51,11 @@ path = "src/mkdir/main.rs"
 [[bin]]
 name = "echo"
 path = "src/echo/main.rs"
+
+[[bin]]
+name = "true"
+path = "src/true/main.rs"
+
+[[bin]]
+name = "false"
+path = "src/false/main.rs"
