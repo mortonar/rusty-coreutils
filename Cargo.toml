@@ -59,3 +59,7 @@ path = "src/true/main.rs"
 [[bin]]
 name = "false"
 path = "src/false/main.rs"
+
+[[bin]]
+name = "dd"
+path = "src/dd/main.rs"
